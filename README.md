@@ -1,8 +1,9 @@
 
 # Hello World!
 
-#### Welcome to my page! I'm Seungo, Backend developer from Seoul, Korea 🇰🇷.
+#### Welcome to my page! I'm Seung-o, Backend developer from Seoul, Korea 🇰🇷.
 
+### Thing I code with
 - 👋 Hi, I’m @Seung-o
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

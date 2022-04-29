@@ -4,7 +4,7 @@
 #### Welcome to my page! I'm Seung-o, Backend developer from Seoul, Korea 🇰🇷.
 
 ### Thing I code with
-! [Node] (https://img.shields.io/badge/Nodejs-43853d??style=plastic&logo=Node.js&&logoColor=white)
+<img src="https://img.shields.io/badge/Nodejs-43853d??style=plastic&logo=Node.js&&logoColor=white">
 
 
 - 👋 Hi, I’m @Seung-o

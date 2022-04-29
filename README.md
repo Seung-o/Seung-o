@@ -1,7 +1,8 @@
 
 # Hello World!
 
-
+### Welcome to my page!
+### I'm Willy, Backend developer from Seoul, Korea 🇰🇷.
 
 - 👋 Hi, I’m @Seung-o
 - 👀 I’m interested in ...

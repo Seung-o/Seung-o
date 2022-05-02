@@ -22,10 +22,15 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3??style=plastic&logo=ESLint&&logoColor=white">
 </p>
 
+***
+
 ![Seungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-o&show_icons=true&theme=merko)
+
+***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seung-o&hide=ejs,html&theme=dark)](https://github.com/Seung-o/github-readme-stats)
 
+***
 ### How to reach me
 <p>
 <a href = "https://github.com/Seung-o"><img src = "https://img.shields.io/badge/Github-181717?style=appveyor&logo=Github&logoColor=white"></a>

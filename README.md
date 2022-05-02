@@ -22,6 +22,13 @@
 <img src="https://img.shields.io/badge/ESLint-4B32C3??style=plastic&logo=ESLint&&logoColor=white">
 </p>
 
+### How to reach me
+<p>
+<img src = "https://img.shields.io/badge/Github-181717?style=appveyor&logo=Github&logoColor=white&link=https://github.com/Seung-o">
+<img src = "https://img.shields.io/badge/Gmail-D14836?style=appveyor&logo=gmail&logoColor=white">
+<img src = "https://img.shields.io/badge/Instagram-E4405F?style=appveyor&logo=instagram&logoColor=white">
+</p>
+
 - 👋 Hi, I’m @Seung-o
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

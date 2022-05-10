@@ -6,13 +6,13 @@
 ### Thing I code with
 <p>
 <img src="https://img.shields.io/badge/Nodejs-339933??style=plastic&logo=Node.js&&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJs-E0234E??style=plastic&logo=NestJs&&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6??style=plastic&logo=TypeScript&&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=plastic&logo=JavaScript&&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1??style=plastic&logo=MySQL&&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D??style=plastic&logo=Redis&&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E??style=plastic&logo=AmazonAWS&&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&&logoColor=white">
-<img src="https://img.shields.io/badge/NestJs-E0234E??style=plastic&logo=NestJs&&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FCA121??style=plastic&logo=GitLab&&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717??style=plastic&logo=GitHub&&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC??style=plastic&logo=Jira&&logoColor=white">

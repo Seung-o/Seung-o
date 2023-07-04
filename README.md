@@ -24,7 +24,7 @@
 
 ***
 
-![Seungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-o&show_icons=true&theme=merko)
+<!-- ![Seungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-o&show_icons=true&theme=merko) -->
 
 ***
 

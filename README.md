@@ -23,7 +23,7 @@
 
 ***
 
-![Seungo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-o&show_icons=true&count_private=true&hide_rank=true&theme=merko)
+![Seungo's GitHub stats](https://github-readme-stats-theta-ruddy.vercel.app/api?username=Seung-o&show_icons=true&include_all_commits=true&theme=merko)
 
 ***
 

@@ -1,5 +1,5 @@
 
-# Hello World!
+# Hello
 
 #### Welcome to my page! I'm Seung-o, Backend developer from Seoul, Korea 🇰🇷.
 

@@ -3,21 +3,22 @@
 
 ### Thing I code with
 <p>
-<img src="https://img.shields.io/badge/Nodejs-339933??style=plastic&logo=Node.js&&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJs-E0234E??style=plastic&logo=NestJs&&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6??style=plastic&logo=TypeScript&&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=plastic&logo=JavaScript&&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1??style=plastic&logo=MySQL&&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D??style=plastic&logo=Redis&&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E??style=plastic&logo=AmazonAWS&&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab-FCA121??style=plastic&logo=GitLab&&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717??style=plastic&logo=GitHub&&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC??style=plastic&logo=Jira&&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B??style=plastic&logo=Slack&&logoColor=white">
-<img src="https://img.shields.io/badge/GoogleCloudPlatform-4285F4??style=plastic&logo=Google&&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837??style=plastic&logo=npm&&logoColor=white">
-<img src="https://img.shields.io/badge/ESLint-4B32C3??style=plastic&logo=ESLint&&logoColor=white">
+<img src="https://img.shields.io/badge/Nodejs-339933??style=flat-square&logo=Node.js&&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJs-E0234E??style=flat-square&logo=NestJs&&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6??style=flat-square&logo=TypeScript&&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E??style=flat-square&logo=JavaScript&&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1??style=flat-square&logo=MySQL&&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D??style=flat-square&logo=Redis&&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E??style=flat-square&logo=AmazonAWS&&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB??style=flat-square&logo=Python&&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FCA121??style=flat-square&logo=GitLab&&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717??style=flat-square&logo=GitHub&&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC??style=flat-square&logo=Jira&&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B??style=flat-square&logo=Slack&&logoColor=white">
+<img src="https://img.shields.io/badge/GoogleCloudPlatform-4285F4??style=flat-square&logo=Google&&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837??style=flat-square&logo=npm&&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-4B32C3??style=flat-square&logo=ESLint&&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
 </p>
 
 ***

@@ -1,5 +1,7 @@
 
-#### Welcome to my page! I'm Seung-o, Backend developer from Seoul, Korea.
+#### Welcome!
+
+I'm Seung-o, Backend developer from Seoul, Korea.
 
 ### Thing I code with
 <p>

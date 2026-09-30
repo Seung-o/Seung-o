@@ -15,11 +15,17 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,python,java&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,fastapi,kotlin,java,spring&theme=dark" alt="Languages & Frameworks" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,redis,aws,gcp&theme=dark" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,elasticsearch&theme=dark" alt="Databases & Search" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,graphql,docker,kubernetes,aws,gcp&theme=dark" alt="Messaging & Infra" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,jest&theme=dark" alt="Tools" />
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=for-the-badge" alt="Bedrock AgentCore" />
 </div>
 
 <br>

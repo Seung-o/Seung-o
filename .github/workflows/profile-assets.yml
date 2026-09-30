@@ -22,6 +22,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # STATS_TOKEN: GITHUB_TOKEN is scoped to this repo only, which undercounts PRs/commits/contributions
       # fail_on_error: a failed fetch aborts the job so the previous cards on the output branch are kept
       - name: Generate Stats Card
         uses: stats-organization/github-readme-stats-action@v2
@@ -29,7 +30,7 @@ jobs:
           card: stats
           options: username=Seung-o&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate Top Languages Card
@@ -38,7 +39,7 @@ jobs:
           card: top-langs
           options: username=Seung-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       # Force-pushes dist/ as the whole output branch, so every asset must be generated in this job

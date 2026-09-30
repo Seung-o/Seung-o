@@ -48,7 +48,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seung-o&theme=tokyo-night&hide_border=true&bg_color=00000000&color=70a5fd&line=38bdae&point=ffffff" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/38bdae/Seung-o" alt="Contribution Graph" width="100%" />
 </div>
 
 <br>

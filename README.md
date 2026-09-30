@@ -27,12 +27,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-theta-ruddy.vercel.app/api?username=Seung-o&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Seung-o/Seung-o/output/stats.svg" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=Seung-o&theme=tokyonight&hide_border=true&background=00000000" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-theta-ruddy.vercel.app/api/top-langs/?username=Seung-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Seung-o/Seung-o/output/top-langs.svg" height="180" alt="Top Languages" />
 </div>
 
 <br>
